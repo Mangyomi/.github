@@ -5,7 +5,7 @@
 Mangyomi is a free, open-source manga reader application that brings your favorite manga, manhwa, and manhua sources together in one beautiful, uniform interface. Built with Electron and React, it offers a premium reading experience with powerful tracking and customization features.
 
 <p align="center">
-  <img src="image.png" alt="Mangyomi Preview" width="800">
+  <img src="../image.png" alt="Mangyomi Preview" width="800">
 </p>
 
 ---
